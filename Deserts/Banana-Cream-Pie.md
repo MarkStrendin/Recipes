@@ -1,5 +1,7 @@
 # Banana Cream Pie
 
+This is more of a traditional banana cream pie that uses pastry cream and real bananas, rather than banana pudding or a pre-made mix. This can be challenging to make the first time - there is a reason that people typically use a pre-made mix for banana cream pies.
+
 ## Ingredients
 ### Graham Cracker crust
  - 1½ cups graham cracker crumbs
@@ -28,11 +30,13 @@
  - Cool completely.
 
 ### Banana Cream Filling
- - In medium sauce pan, combine sugar and cornstarch. Add half and half and egg yolks and whisk until well combined. Bring to boil over medium heat, stirring constantly. Boil 1 minute and remove from heat. Stir in butter, and vanilla.
- - Pour ½ of the filling into the crust.
+ - In medium sauce pan, combine sugar and cornstarch. Add half and half and egg yolks and whisk until well combined. Bring to boil over medium heat, stirring constantly. Boil 1 minute and remove from heat. Stir in butter, and vanilla. As soon as it thickens, remove from direct heat.
+   - It is extremely important to keep stirring this the entire time, so that it doesn't separate. If it does separate, you can add a small amount of cornstarch and hope for the best. 
+   - You are making "Pastry Cream" here, which can be challenging to make if you have never done this before. Googling for pastry cream related advice may be helpful if you run into trouble here.
+ - Pour one half of the filling into the crust.
  - Top with sliced bananas to cover the filling.
  - Pour the rest of the filling over the bananas.
- - Cover with saran wrap directly on the filling itself to avoiding a sticky film on top.
+ - Cover with plastic wrap directly on the filling itself to avoiding a sticky film on top.
  - Chill for at least 3 hours.
  - Top with another layer of sliced bananas.
 
