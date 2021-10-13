@@ -21,7 +21,7 @@ I usually finish this in a foil loaf pan, as I usually cook this dish to take to
  - Peel and cube yams. Bigger cubes/chunks are better, ideally larger than 2cm square. I have tried this with smaller cubes, but it just doesn't work as well.
  - Boil yam chunks for about 20 minutes. Avoid overcooking them (until they give-way to a fork), because they will be cooked again.
  - Drain water and place in an oven-safe dish, such as a casserole dish, or a foil loaf pan. You do not need a lid. Set aside, or place in fridge while you prepare the next step.
- - Preheat oven to 450 degrees ferenheit / 230 degrees celcius
+ - Preheat oven to 450 degrees fahrenheit / 230 degrees celcius
  - In a saucepan, mix brown sugar, butter, and water, and bring to a boil over medium heat, stirring frequently.
  - Remove sugar mixture from heat when it starts to boil, or when it reaches your desired thickness
  - Pour the sugar mixture over the yams, carefully stirring to coat the yam chunks as best as you can
