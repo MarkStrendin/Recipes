@@ -13,3 +13,7 @@ Use this sauce on stir-fry noodles, ideally thick noodles like Udon or Shanghai.
 ## Steps (Just sauce)
  - Combine all ingredients
  - Add to stir fry noodles while cooking
+
+
+## Use with
+ - [Udon Noodle Recipe](/Dishes/Udon-Noodles.md)
