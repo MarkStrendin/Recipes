@@ -12,3 +12,6 @@ I used to keep these as word documents, but I feel that this might be easier to 
 
 ## Sauces
  - [Udon Noodle Sauce](/Sauces/Udon-Noodle-Sauce.md)
+
+## Sides
+ - [Candied Yams](/Sides/Candied-Yams.md)
