@@ -7,6 +7,7 @@ I used to keep these as word documents, but I feel that this might be easier to 
 ## Deserts
  - [Banana Cream Pie](/Deserts/Banana-Cream-Pie.md)
  - [Brownies](/Deserts/Brownies.md)
+ - [Oatmeal Macaroons](/Deserts/Oatmeal-Macaroons.md)
 
 ## Dishes
  - [Carrot Ring](/Dishes/Carrot-Ring.md) (A very cheese-forward carrot casserole, ideal for Thanksgiving or Christmas dinners)
