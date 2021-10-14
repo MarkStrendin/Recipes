@@ -20,10 +20,11 @@ Just a brownie recipe that works for me, that's more on the "fudge" side of the 
 ## Steps
  - Preheat oven to 350F
  - Grease a square baking dish, or line with baking parchment paper
- - Combine melted butter, cooking oil, vanilla, and both sugars together in a bowl, and mix together well
- - Mix in eggs, and beat well (30-60 seconds)
- - Mix in chocolate chips and walnuts if applicable
+ - Combine flour, salt, and cocoa powder in a bowl and whisk together
+ - In a separate bowl, combine melted butter, cooking oil, vanilla, and both sugars together in a bowl, and mix together well
+ - Mix eggs into wet mixture and beat well
+ - Gently fold the dry ingredients into the wet ingredients until combined. If adding extras like chocolate chips or walnuts, add them now. Try to be gentle and avoid overmixing this. 
  - Pour mixture into baking dish and spread as evenly as you can
- - Bake for 25 minutes, then remove from oven
+ - Bake for 25 minutes, then remove from oven.
  - Let cool until the top is close to room temperature before cutting/eating - about 30-60 minutes (depending on the temperature of your kitchen)
  
