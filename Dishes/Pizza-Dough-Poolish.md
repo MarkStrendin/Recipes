@@ -1,7 +1,9 @@
-# Pizza Dough - With poolish preferment
+# Night-before Pizza Dough
 Makes 4-5 medium pizzas.
 This pizza dough takes about *18 hours* to make from start to finish. Start this the day before you plan to make it.
 Dough can be refrigerated for 3-4 days, or frozen.
+
+![Pizza Photo](/Images/pizza00.png)
 
 # Total Ingredients
 - 1kg Flour (ideally "00" or Pizza flour)
