@@ -14,7 +14,9 @@ These are recipes that I've tried and that worked well enough to write down some
  - [Quiche, Single Servings](/Dishes/Quiche.md)
 
 ## Pizza
-- [Night-before Pizza Dough](/Dishes/Pizza-Dough-Poolish.md)
+- [Night-before Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
+- [Same-Day Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
+- [Pizza Topping Considerations](/Pizza/Pizza-Topping-Considerations.md)
 
 ## Sauces
  - [Udon Noodle Sauce](/Sauces/Udon-Noodle-Sauce.md)

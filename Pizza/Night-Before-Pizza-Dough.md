@@ -1,9 +1,9 @@
 # Night-before Pizza Dough
-Makes 4-5 medium pizzas.
+Makes 4-5 12 inch pizzas (each of which is plenty for 2 adults)
 This pizza dough takes about *18 hours* to make from start to finish. Start this the day before you plan to make it.
 Dough can be refrigerated for 3-4 days, or frozen.
 
-![Pizza Photo](/Images/pizza00.png)
+![Pizza Photo](/Images/pizza-after.png)
 
 # Total Ingredients
 - 1kg Flour (ideally "00" or Pizza flour)
@@ -17,7 +17,7 @@ Dough can be refrigerated for 3-4 days, or frozen.
 ## Ingredients for this part
  - 500g Flour
  - 500ml Water (Warm - 30C)
- - 1/8 tea Yeast
+ - 1/8 teaspoon Yeast
 
 ## Steps for this part
  - Heat 500ml water to around 30C - it should be warm, but not hot
@@ -52,13 +52,9 @@ Dough can be refrigerated for 3-4 days, or frozen.
 
 Dough can be refrigerated for several days, or frozen.
 
-# A lecture on using pre-shredded cheese on your pizza
-**Do not use pre-shredded cheese on your pizza.**. Pre-shredded cheese contains anti-sticking agents like corn starch in the bag, so that the shredded pieces don't stick to eachother at the grocery store. This extra stuff will change the taste of your pizza, and might even make a scummy film on top of your cheese.
-
-For best results, rip off clumps of cheese with your hands - it will all melt together anyway, and you won't have to wash a cheese grater. If you're using a cheese that isn't easily ripped into clumps, cut it into 1/2" cubes.
-
-![Cheese Example](/Images/pizza01.jpg)
-
 # Using frozen dough
  - Thaw in refrigerator for at least 12 hours
  - Let dough sit on room-temperature countertop for 30-60 minutes before use
+
+# Ready to assemble your pizza
+You can now use your dough to assemble and cook some pizza. See my page on [Pizza Topping Considerations](/Pizza/Pizza-Topping-Considerations.md) for some important considerations for assembling your final pizza, no matter what dough you are using.
