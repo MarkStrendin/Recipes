@@ -15,7 +15,7 @@ These are recipes that I've tried and that worked well enough to write down some
 
 ## Pizza
 - [Night-before Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
-- [Same-Day Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
+- [Same-Day Pizza Dough](/Pizza/Same-Day-Pizza-Dough.md)
 - [Pizza Topping Considerations](/Pizza/Pizza-Topping-Considerations.md)
 
 ## Sauces
