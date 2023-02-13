@@ -57,4 +57,4 @@ Dough can be refrigerated for several days, or frozen.
  - Let dough sit on room-temperature countertop for 30-60 minutes before use
 
 # Ready to assemble your pizza
-You can now use your dough to assemble and cook some pizza. See my page on [Pizza Topping Considerations](/Pizza/Pizza-Topping-Considerations.md) for some important considerations for assembling your final pizza, no matter what dough you are using.
+You can now use your dough to assemble and cook some pizza. See my page on [Pizza Topping Considerations](Pizza-Topping-Considerations.md) for some important considerations for assembling your final pizza, no matter what dough you are using.
