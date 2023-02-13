@@ -3,7 +3,7 @@ Makes 4-5 12 inch pizzas (each of which is plenty for 2 adults)
 This pizza dough takes about *8 hours* to make from start to finish. Start this the morning you plan to use it.
 Dough can be refrigerated for 3-4 days, or frozen.
 
-![Pizza Photo](/Images/pizza-after.png
+![Pizza Photo](/Images/pizza-after.png)
 
 # Ingredients
 - 1kg Flour (ideally "00" or Pizza flour)
