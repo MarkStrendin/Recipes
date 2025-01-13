@@ -8,7 +8,7 @@ These are recipes that I've tried and that worked well enough to write down some
  - [Oatmeal Macaroons](/Deserts/Oatmeal-Macaroons.md)
 
 ## Dishes
- - [Carrot Ring](/Dishes/Carrot-Ring.md) (A very cheese-forward carrot casserole, ideal for Thanksgiving or Christmas dinners)
+ - [Banana Bread](/Dishes/banana-bread.md)
  - [Hard Boiled Eggs](/Dishes/Hard-Boiled-Eggs.md)
  - [Udon Noodles](/Dishes/Udon-Noodles.md)
  - [Quiche, Single Servings](/Dishes/Quiche.md)
@@ -22,5 +22,6 @@ These are recipes that I've tried and that worked well enough to write down some
  - [Udon Noodle Sauce](/Sauces/Udon-Noodle-Sauce.md)
 
 ## Sides
- - [Candied Yams](/Sides/Candied-Yams.md)
+ - [Candied Yams / Candied Sweet Potatoes](/Sides/Candied-Yams.md)
+ - [Carrot Ring](/Dishes/Carrot-Ring.md) (A very cheese-forward carrot casserole, ideal for Thanksgiving or Christmas dinners)
  - [Orange Salad](/Deserts/Orange-Salad.md)

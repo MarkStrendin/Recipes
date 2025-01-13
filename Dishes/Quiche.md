@@ -2,7 +2,7 @@
 
 ## Ingredients
  - 6 Large Eggs
- - 1 cup Milk, Whole Milk, or Cream
+ - 1 cup Milk
  - 1/2 cup Bisquick mix
  - 1 cup cheese, shredded (Shred your own cheese, do not use pre-shredded)
 
