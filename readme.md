@@ -6,12 +6,15 @@ These are recipes that I've tried and that worked well enough to write down some
  - [Banana Cream Pie](/Deserts/Banana-Cream-Pie.md)
  - [Brownies](/Deserts/Brownies.md)
  - [Oatmeal Macaroons](/Deserts/Oatmeal-Macaroons.md)
+ - [Chocolate Chip Cookies](/Deserts/Chocolate-Chip-Cookies.md)
 
 ## Dishes
  - [Banana Bread](/Dishes/banana-bread.md)
  - [Hard Boiled Eggs](/Dishes/Hard-Boiled-Eggs.md)
  - [Udon Noodles](/Dishes/Udon-Noodles.md)
  - [Quiche, Single Servings](/Dishes/Quiche.md)
+ - [Meatballs](/Dishes/Meaballs.md)
+ 
 
 ## Pizza
 - [Night-before Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
