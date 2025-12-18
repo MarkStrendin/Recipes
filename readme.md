@@ -12,10 +12,9 @@ These are recipes that I've tried and that worked well enough to write down some
 ## Dishes
  - [Banana Bread](/Dishes/banana-bread.md)
  - [Hard Boiled Eggs](/Dishes/Hard-Boiled-Eggs.md)
- - [Udon Noodles](/Dishes/Udon-Noodles.md)
- - [Quiche, Single Servings](/Dishes/Quiche.md)
  - [Meatballs](/Dishes/Meaballs.md)
- 
+ - [Quiche, Single Servings](/Dishes/Quiche.md)
+ - [Udon Noodles](/Dishes/Udon-Noodles.md) 
 
 ## Pizza
 - [Night-before Pizza Dough](/Pizza/Night-Before-Pizza-Dough.md)
