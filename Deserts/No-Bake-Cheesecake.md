@@ -7,7 +7,7 @@ This cake takes time to set, so you will want to make it the day before you plan
  - 100g unsalted butter (melted)
  - 300ml whipping cream
  - 675 bricks cream cheese
-  - 3 packages, as my local grocery store sells cream cheese.
+  - 3 8oz packages, as my local grocery store sells cream cheese.
  - 100g granulated sugar
  - 15g (2tbsp) icing/confectioners' sugar
  - 60g (1/4 cup) sour cream
