@@ -5,8 +5,9 @@ These are recipes that I've tried and that worked well enough to write down some
 ## Deserts
  - [Banana Cream Pie](/Deserts/Banana-Cream-Pie.md)
  - [Brownies](/Deserts/Brownies.md)
- - [Oatmeal Macaroons](/Deserts/Oatmeal-Macaroons.md)
  - [Chocolate Chip Cookies](/Deserts/Chocolate-Chip-Cookies.md)
+ - [No-Bake Cheesecake](/Deserts/No-Bake-Cheesecake.md)
+ - [Oatmeal Macaroons / Haystacks](/Deserts/Oatmeal-Macaroons.md)
 
 ## Dishes
  - [Banana Bread](/Dishes/banana-bread.md)

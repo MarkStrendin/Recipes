@@ -1,4 +1,4 @@
-# Oatmeal Macaroons
+# Oatmeal Macaroons / Haystacks
 
 ## Ingredients
  - 2 cups granulated sugar
