@@ -6,19 +6,19 @@ We traditionally have this dish as a side dish along with a typical turkey dinne
 The original recipe is called "carrot ring" because it is meant to be prepared in a Bundt/wreath-shaped pan, and served with cooked peas piled in the center. We typically do not do this, so it's ends up being a sort of casserole.
 
 ## Ingredients
- - 2lb carrots, washed and peeled (consider using baby carrots that are already washed and peeled)
- - 1 cup soda crackers, crushed
-   - Alternatively breadcrumbs, panko, ritz crackers, or even crushed corn flakes would work
- - 1 cup milk
- - 1-2 cups grated cheddar cheese
+ - 900g / 2lb carrots, washed and peeled (consider using baby carrots that are already washed and peeled)
+ - 1 cup Unsalted soda crackers, crushed into crumbs
+   - Alternatively you can use bread crumbs or crushed Ritz crackers
+ - 225ml / 1 cup milk
+ - Around 200g / 1-2 cups grated cheddar cheese
    - The cheap stuff works best here. I have tried with fancy cheeses, and it never works quite right. The cheapest block of orange cheese will work best
    - Avoid using pre-shredded cheese, as it contains potato starch that will change the taste of the final dish
- - 1/3 cup butter, melted
- - 1/4 cup onion, minced finely
+ - 75g / 1/3 cup butter, melted
+ - 1/4 cup onion, minced finely (about half of a small onion) - I recommend a Yellow or Sweet Yellow onion
  - 1/4 teaspoon salt & pepper
- - 2 eggs
+ - 2 large eggs
 
-I usually finish this in a foil loaf pan, as I usually cook this dish to take to someone else's home, and a foil pan is more convenient for this. Do not use foil pans that have plastic lids, the lids will melt.
+I usually finish this in a foil loaf pan, as I usually cook this dish to take to someone else's home, and a foil pan is more convenient for this. Do not use foil pans that have plastic lids or the lids may melt.
 
 ## Steps
  - Peel and boil carrots until soft. You should be able to easily crush with a fork.
