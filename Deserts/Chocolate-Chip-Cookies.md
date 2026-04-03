@@ -20,7 +20,7 @@ Makes 20-25 cookies.
 
 ## Steps
  - Whisk flour, baking soda, cornstarch, salt together in a bowl.
- - In a separate bowl, melt butterT
+ - In a separate bowl, melt butter
  - To the melted butter, add brown sugar, granulated sugar and mix well.
  - Add egg and egg yolk to butter/sugar mixture and mix well.
  - Add vanilla extract to butter/sugar/egg mixture and mix well.
