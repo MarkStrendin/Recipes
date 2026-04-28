@@ -2,17 +2,15 @@
 
 ## Ingredients
  - 6 Large Eggs
- - 1 cup Milk
- - 1/2 cup Bisquick mix
- - 1 cup cheese, shredded (Shred your own cheese, do not use pre-shredded)
+ - 250ml (1 cup) Milk
+ - 90g (1/2 cup) Bisquick mix
+ - 215g shredded cheese
 
 ## Optional Add-Ins
  - green onion, chopped
  - mushrooms, chopped
- - spinach, chopped (frozen spinach works well)
- - chopped ham
- - cheese, shredded (a different cheese than you used above)
- - whatever else you feel like throwing in
+ - 70g chopped spinach (frozen spinach works well)
+ - 50g chopped deli ham
 
 ## Equipment needed
  - A large bowl
@@ -21,12 +19,10 @@
  - A cooling rack
 
 ## Steps
- - Preheat oven to 425 degrees fahrenheit
+ - Preheat oven to 200C (400F)
  - Combine all ingredients in a large bowl
- - Spoon mixture into baking tin
- - Place muffin tin into oven, and lower heat to 375 degrees fahrenheit
+ - Spoon mixture into muffin tin slots
+ - Place muffin tin into oven
  - Bake for 20 minutes
  - Remove tin from oven, and place on cooling rack
  - Let cool for 10-15 min
-
- Refrigerate or freeze what you don't eat immediately.
